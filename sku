@@ -2,7 +2,7 @@ const CONFIG = {
     titleWeb: "Hello mấy tình iu của bé :3",
     introTitle: 'Do tụi mình cũng quen biết nhau sương sương 1 năm hơn gòi :>',
     introDesc: `Nên nay hứng lên mún hỏi mấy tình iu câu này <3`,
-    btnIntro: 'BOke lun géi =))))',
+    btnIntro: 'Oke lun géi =))))',
     title: 'Sau một thời gian quen biết lâu thì cô thí toy quá ư là đáng iu đúng hông nà? :3',
     desc: 'Trả lời đi đừng có ngại :3 ',
     btnYes: 'Úi chòi oi, quá ư là cute lun ý XD',
