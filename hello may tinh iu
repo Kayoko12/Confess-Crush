@@ -1,0 +1,16 @@
+const CONFIG = {
+    titleWeb: "Hello mấy tình iu của bé :3",
+    introTitle: 'Do tụi mình cũng quen biết nhau sương sương 1 năm hơn gòi :>',
+    introDesc: `Nên nay hứng lên mún hỏi mấy tình iu câu này <3`,
+    btnIntro: 'BOke lun géi =))))',
+    title: 'Sau một thời gian quen biết lâu thì cô thí toy quá ư là đáng iu đúng hông nà? :3',
+    desc: 'Trả lời đi đừng có ngại :3 ',
+    btnYes: 'Úi chòi oi, quá ư là cute lun ý XD',
+    btnNo: 'Đéo nhé :)',
+    question: 'Úi chòi oi, thiệt hả ?',
+    btnReply: 'Cô nói thật lòng hẻ? :3',
+    reply: 'Nghĩ sao toy xạo dị? Cô cute gần chớt, hổng ai cute bằng cô đâu <3',
+    mess: 'Hí hí iu mấy cô gần chớtttttt',
+    messDesc: 'Hôm nào onl trúng giờ thiên là qua ăn bám liền nò :3',
+    btnAccept: 'Oki lun nò =)))',
+    messLink: 'https://fb.com'
