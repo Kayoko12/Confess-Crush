@@ -8,10 +8,10 @@ const CONFIG = {
     btnYes: 'Tất nhiên là cao bồi với batter gòi :>',
     btnNo: 'Ủa có chơi giỏi con nào hả? :)',
     question: 'Úi chòi oi, thiệt hả ?',
-    btnReply: 'Đừng có khen đại cho tui dui nhe, nói thiệt ó :3',
+    btnReply: 'Trả lời thiệt lòng ó hỏ? :3',
     reply: 'Tất nhiên là thiệt gòi, Ka chơi provjp lắm lun, mà tại ngại nên hông nói ó :3',
     mess: 'Chòi oi, ngại ghê quá chòi, iu lắm lun ó :3',
-    messDesc: 'Nào rank nhớ cầm hai char đó để bảo kê mình nheeeee',
+    messDesc: 'Nào rank tui sẽ cầm hai char đó để bảo kê tình iu nheeeee',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
