@@ -5,7 +5,7 @@ const CONFIG = {
     btnIntro: 'Bắt đầu nèo hơ nỳ :3',
     title: 'Mấy tình iu thấy tui chơi sur nào provjp nhứt nà :3 ?',
     desc: 'Trả lời đi đừng có ngại :3 ',
-    btnYes: 'Tất nhiên là cao bồi với batter gòi :'>',
+    btnYes: 'Tất nhiên là cao bồi với batter gòi :>',
     btnNo: 'Ủa có chơi giỏi con nào hả? :)',
     question: 'Úi chòi oi, thiệt hả ?',
     btnReply: 'Đừng có khen đại cho tui dui nhe, nói thiệt ó :3',
