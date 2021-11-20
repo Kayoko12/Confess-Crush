@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    titleWeb: "E bạn dì đó êyyyyy :3",
+    introTitle: 'Hé lô mấy tình iu, mình có câu hỏi nhỏ nà :>',
+    introDesc: `Hỏi thật lòng nên là trả lời thiệt nhe, đừng có giấu, này hổng ai bít đou é :3`,
+    btnIntro: 'Bắt đầu nèo hơ nỳ :3',
+    title: 'Mấy tình iu thấy tui chơi sur nào provjp nhứt nà :3 ?',
+    desc: 'Trả lời đi đừng có ngại :3 ',
+    btnYes: 'Tất nhiên là cao bồi với batter gòi :'>',
+    btnNo: 'Ủa có chơi giỏi con nào hả? :)',
+    question: 'Úi chòi oi, thiệt hả ?',
+    btnReply: 'Đừng có khen đại cho tui dui nhe, nói thiệt ó :3',
+    reply: 'Tất nhiên là thiệt gòi, Ka chơi provjp lắm lun, mà tại ngại nên hông nói ó :3',
+    mess: 'Chòi oi, ngại ghê quá chòi, iu lắm lun ó :3',
+    messDesc: 'Nào rank nhớ cầm hai char đó để bảo kê mình nheeeee',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
