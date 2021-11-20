@@ -12,5 +12,5 @@ const CONFIG = {
     reply: 'Nghĩ sao toy xạo dị? Cô cute gần chớt, hổng ai cute bằng cô đâu <3',
     mess: 'Hí hí iu mấy cô gần chớtttttt',
     messDesc: 'Hôm nào onl trúng giờ thiên là qua ăn bám liền nò :3',
-    btnAccept: 'Oki lun nò =)))',
+    btnAccept: 'Oki lun nò :>',
     messLink: 'https://fb.com'
